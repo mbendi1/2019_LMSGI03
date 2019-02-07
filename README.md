@@ -18,7 +18,7 @@ Archivo dtd interno: lmsgi03dtd2.xml
 ### XML Schema (https://www.w3schools.com/xml/xml_schema.asp) (3 punts)
 Esquema .**xsd** corresponent a l'**XML**. El document **XML** validarà respecte d'aquest esquema.
 
-Archivo: lmsgi03.xsd
+Archivos: lmsgi03xsd.xml y avisos.xsd
 
 
 Publicau els vostres documents .**xml, .dtd i .xsd** a un repositori a github i indicau al **readme.md** la font d'on heu extret les dades. Lliurau la URL del vostre repositori.
