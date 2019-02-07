@@ -1,0 +1,6 @@
+<!ELEMENT Avisos (Aviso+)>
+<!ELEMENT Aviso (Titular, Fecha, Importancia, Descripcion)>
+<!ELEMENT Titular (#PCDATA)>
+<!ELEMENT Fecha (#PCDATA)>
+<!ELEMENT Importancia (#PCDATA)>
+<!ELEMENT Descripcion (#PCDATA)>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Avisos SYSTEM "Avisos.dtd">
+
+<Avisos>
+<Aviso>	
+	<Titular>La última actualización de Windows Defender podría impedir el inicio de algunos de tus equipos</Titular>
+	<Fecha>01/02/2019</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	Desde Microsoft alertan que Windows 10 podría no iniciar en algunos equipos tras instalar la última de las actualizaciones mensuales de la plataforma antimalware Windows Defender.
+   </Descripcion>
+</Aviso>
+<Aviso>
+   <Titular>Detectada nueva oleada de correos que extorsionan a usuarios</Titular>
+    <Fecha>24/01/2019</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	Se ha detectado una nueva campaña de correos electrónicos fraudulentos cuyo objetivo es extorsionar a los destinatarios de los mismos con un supuesto vídeo de contenido sexual. El ciberdelincuente amenaza con enviar dicho vídeo a los contactos de la víctima en 48 horas sino realiza el pago de una determinada cantidad de Bitcoins.
+   </Descripcion>
+</Aviso>
+<Aviso>
+   <Titular>Detectada una nueva campaña de phishing que suplanta a la Agencia Tributaria</Titular>
+    <Fecha>21/01/2019</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	Se ha detectado una nueva campaña de envío de correos electrónicos fraudulentos en los que se suplanta a la Agencia Tributaria. El falso e-mail informa al contribuyente de que le corresponde un supuesto reembolso económico, y le proporciona un enlace a una web con un formulario cuyo fin es obtener su información personal y bancaria.
+   </Descripcion>
+</Aviso>
+<Aviso>
+    <Titular>Millones de correos electrónicos filtrados, ¿cómo saber si tus cuentas están afectadas?</Titular>
+    <Fecha>18/01/2019</Fecha>
+    <Importancia>Alta</Importancia>
+	<Descripcion>
+	Se ha publicado una brecha de datos denominada Collection #1 con 773 millones de cuentas de correo. Esta filtración, a diferencia de otras, parece tratarse de una compilación de datos obtenidos a través de diversos sitios web y servicios.
+   </Descripcion>
+</Aviso>
+<Aviso>   
+    <Titular>Detectada vulnerabilidad en la aplicación ES File Explorer de Android</Titular>
+    <Fecha>16/01/2019</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	Se ha detectado una vulnerabilidad en la aplicación ES File Explorer de Android que permitiría a un ciberdelincuente acceder a los archivos administrados por esta aplicación al estar conectado a una misma red
+   </Descripcion>
+</Aviso>
+<Aviso>   
+    <Titular>¡Atento! Detectada campaña de phishing suplantando al BBVA</Titular>
+    <Fecha>09/01/2019</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	Se ha detectado una campaña de correos electrónicos fraudulentos que suplantan a la entidad bancaria BBVA, cuyo objetivo es dirigir a la víctima a una página falsa (phishing) que simula ser la web legítima del banco para robar sus credenciales de acceso.
+   </Descripcion>
+</Aviso> 
+<Aviso>
+    <Titular>WhatsApp borrará las copias de seguridad de Google Drive de más de un año de antigüedad</Titular>
+    <Fecha>12/11/2018</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	A partir de este momento, las copias de seguridad de WhatsApp en Google Drive que tengan más de un año de antigüedad serán eliminadas automáticamente.
+   </Descripcion>
+</Aviso> 
+<Aviso>  
+    <Titular>Detectada campaña fraudulenta de phishing al Banco Santander</Titular>
+    <Fecha>11/10/2018</Fecha>
+    <Importancia>Alta</Importancia>
+	<Descripcion>
+	Se ha detectado una campaña de envío de correos electrónicos fraudulentos que suplantan al Banco Santander, cuyo objetivo es dirigir a la víctima a una página falsa (phishing) para robar sus credenciales (usuario y contraseña) de acceso e información bancaria.
+   </Descripcion>
+</Aviso> 
+<Aviso>   
+    <Titular>Fallo de seguridad en Facebook afecta a 50 millones de usuarios</Titular>
+    <Fecha>01/10/2018</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	Facebook ha publicado una nota de seguridad confirmando una vulnerabilidad, que ha afectado a 50 millones de cuentas, permitiendo el robo de un identificador único que se genera cada vez que se accede a una cuenta de usuario (token).
+   </Descripcion>
+</Aviso> 
+<Aviso>   
+    <Titular>Circulan correos de phishing de Endesa con motivo de un reembolso 37 euros</Titular>
+    <Fecha>26/09/2018</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	Se ha detectado una campaña de correos electrónicos fraudulentos que suplantan a la compañía eléctrica Endesa. Mediante estos correos se pretende dirigir a la víctima a una página falsa para que supuestamente gestione el reembolso de la factura mal emitida facilitando una tarjeta bancaria (phishing).
+   </Descripcion>
+</Aviso> 
+<Aviso>   
+    <Titular>El fraude del email con supuestos vídeos extorsionadores circula de nuevo</Titular>
+    <Fecha>26/09/2018</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	Se ha detectado de nuevo un envío masivo de correos cuyo objetivo es engañar y extorsionar a la persona receptora con el supuesto envío a sus contactos de imágenes y videos de contenido sexual si no se realiza un pago de cierta cantidad económica en un plazo inferior a dos días. Estos videos e imágenes habrían sido grabados mientras la víctima visitaba páginas de contenido pornográfico.
+   </Descripcion>
+</Aviso> 
+<Aviso>   
+    <Titular>Detectada campaña de phishing suplantando a Openbank</Titular>
+    <Fecha>17/09/2018</Fecha>
+    <Importancia></Importancia>
+	<Descripcion>
+	Se ha detectado una campaña de envío de correos electrónicos fraudulentos que suplantan a la entidad bancaria Openbank, perteneciente al Grupo Santander, cuyo objetivo es dirigir a la víctima a una página falsa (phishing) para robar sus credenciales de acceso e información bancaria.
+   </Descripcion>
+</Aviso> 
+<Aviso>
+   <Titular>Detectada una nueva campaña de phishing haciéndose pasar por Paypal</Titular>
+    <Fecha>07/08/2018</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	Se ha detectado una campaña de correos electrónicos que intentan suplantar a la empresa procesadora de pagos Paypal.
+	El correo simula la factura y confirmación de una supuesta compra y es enviado a varias direcciones de correo electrónico. En el cuerpo del mensaje se facilita un enlace para poder cancelar la transacción, a través del cual se solicitan las credenciales de usuario y los datos personales y bancarios vinculados a la cuenta.
+   </Descripcion>
+</Aviso> 
+<Aviso>   
+   <Titular>Nueva vulnerabilidad crítica en Bluetooth afecta a múltiples dispositivos</Titular>
+    <Fecha>25/07/2018</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	La vulnerabilidad CVE-2018-5383, afecta al firmware de varios dispositivos. Este fallo permite un ataque remoto dependiendo de la proximidad física a los dispositivos, inyectar malware o interceptar los datos que se están enviando.
+   </Descripcion>
+</Aviso> 
+<Aviso>   
+   <Titular>Detectada una estafa a través de correo electrónico extorsionando con supuestas imágenes de contenido sexual</Titular>
+    <Fecha>19/07/2018</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	Se ha detectado una campaña de correos masivos en los que se afirma que el ordenador de la víctima ha sido infectado y se ha grabado un vídeo comprometido mientras visitaba páginas pornográficas. Además, en el texto se asegura haber conseguido los contactos del usuario afectado y se facilita, para más credibilidad del correo, una contraseña asociada a la cuenta. El correo continúa amenazando a la víctima con enviar dicho vídeo a sus contactos si no realiza un pago en Bitcoins.
+   </Descripcion>
+</Aviso> 
+<Aviso>   
+   <Titular>MysteryBot, nuevo malware bancario con funcionalidades avanzadas</Titular>
+    <Fecha>15/06/2018</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	Se ha descubierto un nuevo malware para Android que combina las funcionalidades de un troyano bancario, un keylogger y un ransomware. Es el primer malware bancario que es capaz de mostrar pantallas superpuestas y creíbles tanto en Android 7 y 8.
+   </Descripcion>
+</Aviso> 
+<Aviso>   
+   <Titular>Detectada nueva campaña de phishing que intenta suplantar a Carrefour</Titular>
+    <Fecha>29/05/2018</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	Se ha detectado una campaña de phishing que intenta suplantar a Carrefour Pass (Carrefour Servicios Financieros S.A.) mediante un email falso. Este correo electrónico simula la necesidad de actualización de los datos proporcionados a la empresa para que esa persona pueda seguir usando los servicios contratados con ellos, en este caso, la tarjeta Carrefour Pass.
+   </Descripcion>
+</Aviso> 
+<Aviso>   
+   <Titular>El FBI toma el control de la Botnet VPNfilter</Titular>
+    <Fecha>29/05/2018</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	Cisco ha detectado una nueva botnet de más de 500.000 routers y dispositivos de almacenamiento conectados en red (NAS) infectadas en 54 países diferentes. La actividad principal que ha tenido la botnet han sido ataques DDoS, aunque sus funcionalidades comprenden también la recolección de datos. El FBI ha tomado el control de la misma y piden resetear todos los routers por motivos de seguridad.
+   </Descripcion>
+</Aviso> 
+<Aviso>   
+   <Titular>Detectado fraude que utiliza la marca Samsung</Titular>
+    <Fecha>18/05/2018</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	Nuevo caso de fraude que utiliza como vector de ataque un mensaje relacionado con la compra de un teléfono móvil de la marca Samsung.
+   </Descripcion>
+</Aviso> 
+<Aviso>   
+   <Titular>Twitter sugiere a sus usuarios cambiar la contraseña debido a un error de seguridad</Titular>
+    <Fecha>04/05/2018</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	La red social confirma que ha descubierto un fallo de seguridad que provocó el almacenamiento de las contraseñas de sus 330 millones de usuarios en un formato vulnerable. La compañía ha explicado que las contraseñas se cifran mediante un proceso que las reemplaza por un conjunto aleatorio de números y letras, pero han descubierto que las contraseñas se almacenaron también en un registro interno de la compañía antes de ser cifradas.
+   </Descripcion>
+</Aviso> 
+<Aviso>   
+   <Titular>Detectada nueva campaña de phishing que intenta suplantar a Mapfre</Titular>
+    <Fecha>09/04/2018</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	Se ha detectado una campaña de phishing que intenta suplantar a la compañía de seguros Mapfre mediante un email falso. Este correo electrónico simula la recepción de una supuesta solicitud de cambio de dirección postal, en caso de error solicita al usuario que envíe ciertos datos personales.
+   </Descripcion>
+</Aviso> 
+<Aviso>   
+   <Titular>Detectada una aplicación fraudulenta que suplanta a la oficial de Bankia en Google Play</Titular>
+    <Fecha>09/04/2018</Fecha>
+    <Importancia>Alta</Importancia>
+	<Descripcion>
+	Se ha detectado una app falsa en el mercado oficial de aplicaciones de Google Play. La app fraudulenta, que suplanta a la de Bankia, tiene el objetivo de capturar el usuario y contraseña de la víctima, aparte de tener acceso a ciertos datos almacenados en el móvil y poder realizar ciertas acciones, a través de los permisos que solicita al instalar la aplicación.
+   </Descripcion>
+</Aviso> 
+<Aviso>   
+   <Titular>Una vulnerabilidad en la herramienta de Windows CertUtil, podría permitir la descarga de malware</Titular>
+    <Fecha>06/04/2018</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	Detectada una vulnerabilidad en Windows provocada por CertUtil, un programa incorporado por defecto en Windows que se utiliza para la gestión de certificados digitales, mediante la cual se puede descargar cualquier tipo de archivo desde una dirección web remota. Esta vulnerabilidad ha sido aprovechada por diferentes atacantes para instalar malware en los equipos de las víctimas.
+   </Descripcion>
+</Aviso> 
+<Aviso>   
+   <Titular>Corregida vulnerabilidad de seguridad de Microsoft en algunas versiones de Windows</Titular>
+    <Fecha>05/04/2018</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	El último parche de seguridad que debía corregir la vulnerabilidad de Meltdown y Spectre, lanzado el 1 de abril de 2018, produce error en su instalación en algunos equipos, por lo que los usuarios la han denominado Total Meltdown. El objetivo es dejar al equipo expuesto para que un atacante con acceso pueda tomar el control del mismo.
+   </Descripcion>
+</Aviso> 
+<Aviso>  
+   <Titular>Detectado un fallo en la cámara de iOS 11.2.6 al leer códigos QR</Titular>
+    <Fecha>27/03/2018</Fecha>
+    <Importancia>Media</Importancia>
+	<Descripcion>
+	Investigadores de Infosec han descubierto un fallo de seguridad en la aplicación de la cámara que viene instalada por defecto en iOS 11.2.6, que consiste en un fallo en la función de escaneo de códigos QR. Ésta permite que se muestre en el dispositivo una dirección diferente a la que se abrirá después en el navegador Safari.
+   </Descripcion>
+ </Aviso>
+</Avisos>
