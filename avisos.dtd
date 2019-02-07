@@ -1,6 +1,0 @@
-       <!ELEMENT avisos (Aviso, Fecha, Importancia, Descripcion)>
-       <!ELEMENT Aviso (#PCDATA)>
-       <!ELEMENT Fecha (#PCDATA)>
-       <!ELEMENT Importancia (#PCDATA)>
-       <!ELEMENT Descripcion (#PCDATA)>
- 
